@@ -27,9 +27,9 @@ Some features:
 
 | How to                |  Product guides                                                                                                                    |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Buy Options           | [How to buy put and call options](https://github.com/risqprotocol/options-docs/blob/main/docs/Purchasing%20Options.md)              |
+| Buy Options           | [How to buy put and call options](https://vimeo.com/591692542)              |
 | Exercise Options      | [Exercising your in the money options] *(coming soon)*                                                                             |
-| Sell Options          | [A guide to becoming an Options Writer / Liquidity Provider](https://github.com/risqprotocol/options-docs/blob/main/docs/Becoming_an_LP.md) |
+| Sell Options          | [A guide to becoming an Options Writer / Liquidity Provider](https://vimeo.com/591692542) |
 | Exit a Liquidity Pool | [How to withdraw from the Liquidity Pools] *(coming soon)*                                                                         |
 | Stake RISQ           | [How to stake your Risq Protocol to earn a share in Protocol Fees] *(coming soon)*                                                         |
 
